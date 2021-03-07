@@ -3,12 +3,11 @@ import { BrowserRouter as Router, Route, Link } from 'react-router-dom';
 import Container from 'react-bootstrap/Container';
 import Navbar from 'react-bootstrap/Navbar';
 import Nav from 'react-bootstrap/Nav';
-//import { Button } from 'reactstrap';
 
 import Footer from './models/Footer';
-//import Home from './folio/Home';
-//import About from './folio/About';
-//import Contact from './folio/Contact';
+import Home from './folio/Home';
+import About from './folio/About';
+import Contact from './folio/Contact';
 import './App.css';
 import './src/App.js'
 
@@ -58,7 +57,7 @@ class App extends React.Component {
           <Route path="/Home" exact render={() => <Home title={this.state.home.title} subTitle={this.state.home.subTitle} text={this.state.home.text} />} />
           <Route path="/About" render={() => <About title={this.state.about.title} />} />
           <Route path="/Contact" render={() => <Contact title={this.state.contact.title} />} />
-          <Footer></Footer>
+          <Footer>React Portfolio</Footer>
         </Container>
       </Router>
 
