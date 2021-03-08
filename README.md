@@ -27,8 +27,9 @@ This is a new portfolio built in react.
 ## GitHub Link 
 https://github.com/https://github.com/Kristabell74/react_portfolio.git/
 
-## Web Link 
+## Web Links 
 https://kristabell74.github.io/react_portfolio/
+https://react-portfolio2021.herokuapp.com/
 
 ## Installation
 

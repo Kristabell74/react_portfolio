@@ -1,6 +1,6 @@
 import React from 'react';
-import Hero from '../models/Hero';
-import Content from '../models/Content';
+import Hero from '../models1/Hero';
+import Content from '../models1/Content';
 
 function About(props) {
 

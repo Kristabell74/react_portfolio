@@ -3,8 +3,8 @@ import React from 'react';
 import Form from 'react-bootstrap/Form';
 import Button from 'react-bootstrap/Button';
 
-import Hero from '../models/Hero';
-import Content from '../models/Content';
+import Hero from '../models1/Hero';
+import Content from '../models1/Content';
 import Axios from 'axios';
 
 class Contact extends React.Component {

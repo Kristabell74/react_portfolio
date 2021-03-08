@@ -1,7 +1,7 @@
 import React from 'react';
 
-import Hero from '../models/Hero';
-import Carousel from '../models/Carousel';
+import Hero from '../models1/Hero';
+import Carousel from '../models1/Carousel';
 
 function Home(props) {
 
