@@ -5,7 +5,7 @@ import Content from '../models1/Content';
 function About(props) {
 
     return (
-        <div>
+        <container>
             <Hero title={props.title} />
 
             <Content>
@@ -19,7 +19,7 @@ function About(props) {
 
                 <p>Hoping that I can make my dreams a reality, I would like to keep moving forward and develop a niche in web developement.</p>
             </Content>
-        </div>
+        </container>
     );
 
 }

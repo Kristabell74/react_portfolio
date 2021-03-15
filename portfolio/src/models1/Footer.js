@@ -7,13 +7,13 @@ import Col from 'react-bootstrap/Col';
 function Footer() {
 
     return (
-        <footer className="mt-5">
+        <footer class="mt-5">
             <Container fluid={true}>
-                <Row className="border-top justify-content-between p-3">
-                    <Col className="p-0" md={3} sm={12}>
+                <Row class="border-top justify-content-between p-3">
+                    <Col class="p-0" md={3} sm={12}>
                         Kristabell Johnson
                     </Col>
-                    <Col className="p-0 d-flex justify-content-end" md={3}>
+                    <Col class="p-0 d-flex justify-content-end" md={3}>
                         @ 2021 License MIT
                     </Col>
                 </Row>

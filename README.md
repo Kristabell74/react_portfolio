@@ -1,4 +1,3 @@
-# react_portfolio
 # React Portfolio
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
