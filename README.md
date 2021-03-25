@@ -32,6 +32,15 @@ https://kristabell74.github.io/react_portfolio/
 ## Heroku Link
 https://react-portfolio2021.herokuapp.com/
 
+## To Run App Locally
+
+Use: 
+npm start
+
+On:
+http://localserver:3000
+
+
 ## Installation
 
 To install necessary dependencies, run the following command:
@@ -53,7 +62,6 @@ This project is licensed under the MIT license.
 www.stackoverflow.com
 www.youtube.com
 classwork 
-
 
 ## Tests
 
