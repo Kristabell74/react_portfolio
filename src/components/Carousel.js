@@ -21,7 +21,7 @@ class Carousel extends React.Component {
                     title: 'Resume',
                     subTitle: 'PDF Format',
                     imgSrc: kristabell,
-                    link: 'https://github.com/Kristabell74',
+                    link: 'https://github.com/Kristabell74/react_portfolio/blob/main/src/Resume/UPDATED%20Tech%20Resume%20.pdf',
                     selected: true
                 },
                 {
