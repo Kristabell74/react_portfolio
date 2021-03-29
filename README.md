@@ -75,6 +75,10 @@ To run tests, run the following command:
 npm test
 ```
 
+##Problems
+
+I have a git ignore for the node modules and they keep etting up to my repository. I have tried deleting them but anytime I push they come back and go into the rpository. I am afraid to touch the code in the repository because I might screw it up. 
+
 ## Questions
 
 If you have any questions about the repo, open an issue or contact me directly at bell77iam@gmail.com. You can find more of my work at [https://github.com/Kristabell74/react_portfolio.git].
