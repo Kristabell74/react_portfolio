@@ -15,8 +15,8 @@ function Footer() {
                             Thank you for looking!!!
                     </Col>
                         <Col class="p-0 d-flex justify-content-end" md={3}>
-                            Email: Bell77iam@gmail.com
-                    </Col>
+                            <a href="mailto:bell77iam@gmail.com">Contact Me</a>
+                        </Col>
                     </Row>
                 </Container>
             </footer>
