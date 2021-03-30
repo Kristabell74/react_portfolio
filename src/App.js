@@ -61,7 +61,7 @@ class App extends React.Component {
             <Route path="/" exact render={() => <Home title={this.state.home.title} subTitle={this.state.home.subTitle} text={this.state.home.text} />} />
             <Route path="/about" render={() => <About title={this.state.about.title} subTitle={this.state.home.subTitle} />} />
             <Route path="/contact" render={() => <Contact title={this.state.contact.title} />} />
-
+            <a href="mailto:abc@example.com">Send Email</a>
             <Footer />
 
           </Container>
