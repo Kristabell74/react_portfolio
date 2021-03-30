@@ -65,6 +65,7 @@ This project is licensed under the MIT license.
 
 www.stackoverflow.com
 www.youtube.com
+Tutor Lawrence
 classwork 
 
 ## Tests
@@ -75,9 +76,9 @@ To run tests, run the following command:
 npm test
 ```
 
-##Problems
+## Problems
 
-I have a git ignore for the node modules and they keep etting up to my repository. I have tried deleting them but anytime I push they come back and go into the rpository. I am afraid to touch the code in the repository because I might screw it up. 
+I have a git ignore for the node modules and they keep etting up to my repository. I have tried deleting them but anytime I push they come back and go into the rpository. I am afraid to touch the code in the repository because I might screw it up. The Node Module issue was fixed whe I worked with my tutor.
 
 ## Questions
 
