@@ -78,7 +78,7 @@ npm test
 
 ## Problems
 
-I have a git ignore for the node modules and they keep etting up to my repository. I have tried deleting them but anytime I push they come back and go into the rpository. I am afraid to touch the code in the repository because I might screw it up. The Node Module issue was fixed whe I worked with my tutor.
+I have a git ignore for the node modules and they keep etting up to my repository. I have tried deleting them but anytime I push they come back and go into the rpository. I am afraid to touch the code in the repository because I might screw it up. The Node Module issue was fixed when I worked with my tutor.
 
 ## Questions
 
